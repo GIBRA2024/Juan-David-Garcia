@@ -4,7 +4,7 @@ VERSION:3.0
 N:García;Juan;David;;
 FN:Juan David García
 TEL:+57 3104711369
-EMAIL;TYPE=WORK: ventas@cervalle.com
+EMAIL;TYPE=WORK: analistamercadeo@cervalle.com
 END:VCARD`;
 
     const blob = new Blob([vcardData], { type: 'text/vcard' });
